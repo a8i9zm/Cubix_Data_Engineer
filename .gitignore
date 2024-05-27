@@ -1,4 +1,4 @@
 .vscode/
 venv/
 packages_for_lambda/
-.env
+/.env
