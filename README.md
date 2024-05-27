@@ -17,6 +17,18 @@
 
 This project provides a set of functions to process and transform weather and taxi trip data, and to manage data uploads and downloads to/from AWS S3. The transformations include cleaning and preparing the data for further analysis or integration into data pipelines.
 
+## Examples, what data the project can provide
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
+![alt text](image-4.png)
+
 ## Features
 
 - Retrieve and transform weather data from JSON format to a pandas DataFrame.
