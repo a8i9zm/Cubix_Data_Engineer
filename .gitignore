@@ -1,4 +1,5 @@
 .vscode/
 venv/
 packages_for_lambda/
-/.env
+# Ignore .env file
+.env
