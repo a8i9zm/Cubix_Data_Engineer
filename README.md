@@ -1,4 +1,4 @@
-# Weather and Taxi Data Processing
+# Weather and Chicago Taxi Data Processing
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This project provides a set of functions to process and transform weather and taxi trip data, and to manage data uploads and downloads to/from AWS S3. The transformations include cleaning and preparing the data for further analysis or integration into data pipelines.
+This project provides a set of functions to process and transform weather and Chicago taxi trip data from API, and to manage data uploads and downloads to/from AWS S3. The transformations include cleaning and preparing the data for further analysis or integration into data pipelines.
 
 ## Examples, what data the project can provide
 
