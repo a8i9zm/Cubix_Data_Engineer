@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+boto3
+json
+BeautifulSoup
+requests
+relativedelta
+datetime
+io
+typing
