@@ -42,8 +42,8 @@ This project provides a set of functions to process and transform weather and Ch
 To get started, clone the repository and install the necessary dependencies:
 
 ```sh
-git clone https://github.com/your-username/weather-taxi-data-processing.git
-cd weather-taxi-data-processing
+git clone https://github.com/a8i9zm/Cubix_Data_Engineer.git
+cd Cubix_Data_Engineer
 pip install -r requirements.txt
 ```
 
@@ -157,9 +157,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [davidterjek@gmail.com](mailto:davidterjek@gmail.com)
 
-Project Link: [https://github.com/your-username/weather-taxi-data-processing](https://github.com/your-username/weather-taxi-data-processing)
+Project Link: [https://github.com/a8i9zm/Cubix_Data_Engineer](https://github.com/a8i9zm/Cubix_Data_Engineer)
 
 ---
 
