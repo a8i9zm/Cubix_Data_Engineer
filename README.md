@@ -5,6 +5,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Examples, what data the project can provide](#examples)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
