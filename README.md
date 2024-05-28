@@ -5,7 +5,7 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Examples, what data the project can provide](#examples)
+- [Plots](#plots)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -18,7 +18,9 @@
 
 This project provides a set of functions to process and transform weather and Chicago taxi trip data from API, and to manage data uploads and downloads to/from AWS S3. The transformations include cleaning and preparing the data for further analysis or integration into data pipelines.
 
-## Examples, what data the project can provide
+## Plots
+
+Examples, what visualization the project can provide:
 
 ![alt text](image.png)
 
@@ -158,7 +160,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [davidterjek@gmail.com](mailto:davidterjek@gmail.com)
+Email: [davidterjek@gmail.com](mailto:davidterjek@gmail.com)
 
 Project Link: [https://github.com/a8i9zm/Cubix_Data_Engineer](https://github.com/a8i9zm/Cubix_Data_Engineer)
 
